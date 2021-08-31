@@ -1,0 +1,16 @@
+header {
+  display: flex;
+}
+
+.active-nav {
+  margin: $s-size;
+}
+
+a.active-nav {
+  font-size: $l-size;
+}
+
+p.active-nav {
+  font-size: $l-size;
+  font-weight: bold;
+}
